@@ -28,4 +28,11 @@ a{
     cursor: pointer;
     border: 0;
     outline: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn img{
+    width: 20px;
+    margin-left: 10px;
 }
