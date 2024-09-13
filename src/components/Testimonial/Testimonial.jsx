@@ -59,9 +59,8 @@ const Testimonial = () => {
                         Teaching at React University allows me to work with 
                         some of the brightest minds in a setting that fosters both 
                         academic rigor and creativity. The collaborative environment 
-                        here is truly unmatched.
-                        The university encourages innovation and interdisciplinary research, 
-                        making every day an exciting challenge. I’ve witnessed firsthand how 
+                        here is truly unmatched. The university encourages innovation 
+                        and interdisciplinary research, making every day an exciting challenge. I’ve witnessed how 
                         our students grow into leaders in their fields.
                         </p>
                     </div>

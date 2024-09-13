@@ -14,3 +14,15 @@
     width: 23%;
     border-radius: 10px;
 }
+
+/* Media Query */
+
+@media(max-width: 800px){
+    .gallery{
+        flex-wrap: wrap;
+    }
+    .gallery img{
+        width: 48%;
+        margin-bottom: 25px;
+    }
+}
